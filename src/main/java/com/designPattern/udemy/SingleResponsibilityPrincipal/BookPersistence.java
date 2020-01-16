@@ -1,4 +1,4 @@
-package com.designPattern.udemy.SingleRepoPrincipal;
+package com.designPattern.udemy.SingleResponsibilityPrincipal;
 
 public class BookPersistence {
 
