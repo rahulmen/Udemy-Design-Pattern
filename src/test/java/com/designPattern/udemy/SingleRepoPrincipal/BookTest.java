@@ -1,4 +1,8 @@
-package com.designPattern.udemy;
+package com.designPattern.udemy.SingleRepoPrincipal;
+
+import com.designPattern.udemy.SingleRepoPrincipal.Book;
+import com.designPattern.udemy.SingleRepoPrincipal.BookHandler;
+import com.designPattern.udemy.SingleRepoPrincipal.Magzine;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.designPattern.udemy;
+package com.designPattern.udemy.SingleRepoPrincipal;
 
 public interface BookHandler{
 
