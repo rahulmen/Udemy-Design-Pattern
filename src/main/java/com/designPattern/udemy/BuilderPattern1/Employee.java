@@ -43,7 +43,7 @@ public class Employee {
 
     @Override
     public String toString(){
-        return this.name+" "+this.email+" "+this.age+" "+this.salary;
+        return getClass().getName()+" "+this.name+" "+this.email+" "+this.age+" "+this.salary;
     }
 
 }
